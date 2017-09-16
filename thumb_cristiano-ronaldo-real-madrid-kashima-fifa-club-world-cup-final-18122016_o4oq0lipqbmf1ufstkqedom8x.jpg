@@ -5,9 +5,12 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <title>Page Title Goes Here</title>
+    
   </head>
 
   <body>
+   <img src= "https://cristiano-ronaldo-real-madrid-kashima-fifa-club-world-cup-final-18122016_o4oq0lipqbmf1ufstkqedom8x.jpg" alt="Html5 Icon" width=100px height=100px> 
+
     <!--  Page content goes here -->
   </body>
 
