@@ -9,7 +9,7 @@
   </head>
 
   <body>
-  <img src= "phelps-emaze.jpg"
+<img src= "phelps-emaze.jpg" alt="Html5 Icon" width=100px height=100px> 
     <!--  Page content goes here -->
   </body>
 
