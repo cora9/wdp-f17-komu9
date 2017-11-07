@@ -39,7 +39,7 @@
     clear: both;
     }
       body {
- background-image: url('images/wtb0516r-1.jpg');
+ background-image: url(../images/wtb0516r-1.jpg');
  background-color: gray;
 } 
  a:link { color: blue; }
