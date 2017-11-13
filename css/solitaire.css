@@ -29,25 +29,25 @@ background-repeat: repeat-x;
 }
 .jackclubs {
  position: absolute;
- top: 40px;
+ top: 70px;
  left: 110px;
  z-index: 3;
 }
 .kingspades {
  position: absolute;
- top: 40px;
+ top: 50px;
  left: 110px;
  z-index: 4;
 }
 .queenhearts {
  position: absolute;
- top: 40px;
+ top: 60px;
  left: 110px;
  z-index: 5;
 }
 .tendiamonds {
  position: absolute;
- top: 40px;
+ top: 80px;
  left: 110px;
  z-index: 6;
 }
