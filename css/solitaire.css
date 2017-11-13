@@ -31,25 +31,25 @@ background-repeat: repeat-x;
  position: absolute;
  top: 70px;
  left: 110px;
- z-index: 3;
+ z-index: 4;
 }
 .kingspades {
  position: absolute;
  top: 50px;
  left: 110px;
- z-index: 4;
+ z-index: 2;
 }
 .queenhearts {
  position: absolute;
  top: 60px;
  left: 110px;
- z-index: 5;
+ z-index: 3;
 }
 .tendiamonds {
  position: absolute;
  top: 80px;
  left: 110px;
- z-index: 6;
+ z-index: 5;
 }
 .back {
  position: absolute;
