@@ -51,10 +51,4 @@ background-repeat: repeat-x;
  left: 110px;
  z-index: 5;
 }
-.back {
- position: absolute;
- top: 90px;
- left: 110px;
- z-index: 0;
-} 
 
