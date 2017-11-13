@@ -53,7 +53,7 @@ background-repeat: repeat-x;
 }
 .back {
  position: absolute;
- top: 40px;
+ top: 90px;
  left: 110px;
  z-index: 1;
 } 
