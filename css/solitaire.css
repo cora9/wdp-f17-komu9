@@ -17,9 +17,6 @@
  left: 25px;
 }
 .card {
- width: 300px;
- height: 300px;
- background-image: url('../images/card.png'); 
   position: absolute;
  top: 40px;
  left: 110px;
@@ -31,36 +28,24 @@ background-repeat: repeat-x;
  background-color:gray; 
 }
 .jackclubs {
- width: 300px;
- height: 300px;
- background-image: url('../images/jackclubs.png');
  position: absolute;
  top: 40px;
  left: 110px;
  z-index: 3;
 }
 .kingspades {
- width: 300px;
- height: 300px;
- background-image: url('../images/kingspades.png');
  position: absolute;
  top: 40px;
  left: 110px;
  z-index: 4;
 }
 .queenhearts {
- width: 300px;
- height: 300px;
- background-image: url('../images/queenhearts.png');
  position: absolute;
  top: 40px;
  left: 110px;
  z-index: 5;
 }
 .tendiamonds {
- width: 300px;
- height: 300px;
- background-image: url('../images/tendiamonds.png');
  position: absolute;
  top: 40px;
  left: 110px;
